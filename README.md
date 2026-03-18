@@ -19,7 +19,7 @@
 
 如果你只是一般玩家，想要在遊戲內使用這個字體，請按照以下步驟操作：
 
-1. 前往本專案的 [Releases 頁面](https://github.com/indow02x/ZHFontMod/releases/tag/v1.0.1) 下載最新的 `v1.0.1` 壓縮檔。
+1. 前往本專案的 [Releases 頁面](https://github.com/indow02x/ZHFontMod/releases/tag/v1.0.0) 下載最新的 `v1.0.1` 壓縮檔。
 2. 解壓縮檔案，你應該會看到以下 3 個檔案：
    * `ZHFontMod.dll` (模組核心程式)
    * `zh_font.ttf` (字體檔案 - 微軟正黑體)
