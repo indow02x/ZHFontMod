@@ -10,7 +10,6 @@
   <PackageReference Include="Lib.Harmony" Version="2.3.3" ExcludeAssets="runtime" />
 </ItemGroup>
 
-  // 請變更為本機的路徑
   <ItemGroup>
     <Reference Include="GodotSharp">
       <HintPath>F:\Program Files (x86)\Steam\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\GodotSharp.dll</HintPath>

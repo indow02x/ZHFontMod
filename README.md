@@ -1,7 +1,7 @@
 # 🗡️ Slay the Spire 2 - 中文字體替換模組 (ZHFontMod)
 
 **作者 (Author):** 亡音星啟  
-**版本 (Version):** v1.0.0  
+**版本 (Version):** v1.0.1  
 
 本模組專為追求最佳視覺與閱讀體驗的中文玩家打造！雖然《殺戮尖塔 2》原生的中文字體已經相當完整，但透過本模組，你可以將全遊戲的字體自由替換成更符合個人喜好、更清晰舒適的樣式，讓長時間的卡牌構築之旅更加護眼與享受。
 
@@ -19,13 +19,14 @@
 
 如果你只是一般玩家，想要在遊戲內使用這個字體，請按照以下步驟操作：
 
-1. 前往本專案的 [Releases 頁面](https://github.com/indow02x/ZHFontMod/releases/tag/v1.0.0) 下載最新的 `v1.0.0` 壓縮檔。
+1. 前往本專案的 [Releases 頁面](https://github.com/indow02x/ZHFontMod/releases/tag/v1.0.1) 下載最新的 `v1.0.1` 壓縮檔。
 2. 解壓縮檔案，你應該會看到以下 3 個檔案：
    * `ZHFontMod.dll` (模組核心程式)
    * `zh_font.ttf` (字體檔案 - 微軟正黑體)
    * `metadata.json` (模組資訊檔)
-3. 找到你的《殺戮尖塔 2》遊戲安裝目錄，並進入 `Mods` 資料夾 (如果沒有請自行建立)。
-   * *通常位於：`C:\Program Files (x86)\Steam\steamapps\common\Slay the Spire 2\Mods\`*
+3. 找到你的《殺戮尖塔 2》遊戲安裝目錄，並進入 `Mods` 資料夾 (如果沒有請自行建立)。各平台預設路徑如下：
+   * **Windows 一般路徑：** `C:\Program Files (x86)\Steam\steamapps\common\Slay the Spire 2\Mods\`
+   * **Mac 一般路徑：** `~/Library/Application Support/Steam/steamapps/common/Slay the Spire 2/Mods/`
 4. 將解壓縮出來的檔案放進 `Mods\ZHFontMod` 資料夾內。
 5. 開啟遊戲，在主選單的「模組 (Mods)」介面中啟用本模組，即可享受煥然一新的中文介面！
 
