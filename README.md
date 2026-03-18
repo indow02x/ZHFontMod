@@ -24,11 +24,11 @@
    * `ZHFontMod.dll` (模組核心程式)
    * `zh_font.ttf` (字體檔案 - 微軟正黑體)
    * `metadata.json` (模組資訊檔)
-3. 找到你的《殺戮尖塔 2》遊戲安裝目錄，並進入 `Mods` 資料夾 (如果沒有請自行建立)。各平台預設路徑如下：
+3. 找到你的《殺戮尖塔 2》遊戲安裝目錄，並進入 `mods` 資料夾 (如果沒有請自行建立)。各平台預設路徑如下：
    * **Windows 一般路徑：** `C:\Program Files (x86)\Steam\steamapps\common\Slay the Spire 2\Mods\`
    * **Mac 一般路徑：** `~/Library/Application Support/Steam/steamapps/common/Slay the Spire 2/Mods/`
 4. 將解壓縮出來的檔案放進 `Mods\ZHFontMod` 資料夾內。
-5. 開啟遊戲，在主選單的「模組 (Mods)」介面中啟用本模組，即可享受煥然一新的中文介面！
+5. 開啟遊戲，在設置的「模組設置 (Modding)」介面中啟用本模組，即可享受煥然一新的中文介面！
 
 ---
 
