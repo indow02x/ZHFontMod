@@ -9,7 +9,8 @@ namespace ZHFontMod
     public class GlobalFontOverridePatch
     {
         // 宣告一個靜態變數把字體存起來，節省效能
-        static FontFile myCustomFont = null;
+        
+        static FontFile? myCustomFont = null;
 
         static bool Prefix(ref Font __result, string language, FontType type)
         {
@@ -25,7 +26,7 @@ namespace ZHFontMod
                     string dllPath = Assembly.GetExecutingAssembly().Location;
                     
                     // 擷取出這個 DLL 所在的資料夾路徑
-                    string modDirectory = Path.GetDirectoryName(dllPath);
+                    string modDirectory = Path.GetDirectoryName(dllPath)!;
                     
                     // 把資料夾路徑跟字體檔名接在一起 (自動尋找同目錄下的 zh_font.ttf)
                     string fontPath = Path.Combine(modDirectory, "zh_font.ttf");
